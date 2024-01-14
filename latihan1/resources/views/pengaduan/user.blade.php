@@ -19,7 +19,7 @@
                     <tr>
                         <td>{{ $user->name }}</td>
                         <td>{{ $user->email }}</td>
-                        <td>{{ $user->nik   }}</td>
+                        <td>{{ $user->nik }}</td>
                         <!-- Add other fields as needed -->
                     </tr>
                 @endforeach
